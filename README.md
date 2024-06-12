@@ -1,4 +1,4 @@
-# Statistical Machine Learning Models from Scratch Using only NumPy
+# Statistical Machine Learning Algorithms from Scratch Using only NumPy
 
 <p align="center">
   <img src="Gaussian-process-with-noise.png" alt="gp" width="905px" height="468px">
